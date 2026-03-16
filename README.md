@@ -47,13 +47,13 @@ A full-stack application for secure document upload, storage, and verification u
 ## 🚀 Installation Instructions
 
 ### Prerequisites
-- Node.js (v18 or higher)
-- MongoDB (local or Atlas)
-- npm or yarn
+- Node.js (v22.20.0 or higher)
+- MongoDB (Atlas)
+- npm
 
 ### 1. Clone Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/samii999/document-verification-platform.git
 cd document-verification-platform
 ```
 
